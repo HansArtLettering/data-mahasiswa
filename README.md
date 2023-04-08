@@ -3,7 +3,7 @@ Latihan2
 
 
 LAPORAN PRAKTIKUM BASIS DATA
-Serius Ndruru 312210508 TI.22.A.5
+Farhan Zulfahriansyah 312210494 TI.22.A.5
 
 BAB I PENDAHULUAN
 
